@@ -1,9 +1,9 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Thanos/Test_thanos1.unity
+<<<<<<< Updated upstream
+- path: Assets/Scenes/_Alkos/I.unity
 =======
-- path: Assets/Scenes/Empty.unity
->>>>>>> master
+- path: Assets/Scenes/_Thanos/TopDown.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
